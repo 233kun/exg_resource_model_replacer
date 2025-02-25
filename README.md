@@ -2,7 +2,7 @@
 
 ## Usage
 
-下载以下这个7z和7z插件，在7z文件目录中新建一个名为`format`的文件夹，并把dll文件复制进去
+下载以下这个7z和7z插件，在7z文件目录中新建一个名为`Format`的文件夹，并把dll文件复制进去
 
 `https://github.com/SCell555/7-Zip-zstd`
 `https://github.com/SCell555/7zip-vpk?tab=readme-ov-file`
