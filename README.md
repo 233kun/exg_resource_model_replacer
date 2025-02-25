@@ -11,11 +11,11 @@
 
 找到想要替换的模型，并移动到资源包文件夹外面，如果要换成鸡哥目录在`characters\models\normal\normal.vmdl_c`
 
-运行脚本，例如`python main.py --path 'C:\Users\233kun\Desktop\exg_resources' --source 'C:\Users\233kun\normal.vmdl_c'`
+运行脚本，例如`python main.py --path 'C:\Users\233kun\Desktop\exg_resources\characters' --source 'C:\Users\233kun\normal.vmdl_c'`
 
 参数注解
 - --path 解压后资源包目录
 - --source 要替换的模型
-- --exceptions 不替换的模型
+- --exceptions 资源包里不替换的模型
 
 最后将资源包打包，记得分卷，因为V社限制资源包最大3G
