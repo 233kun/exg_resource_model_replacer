@@ -17,7 +17,8 @@ if args.exceptions is not None:
     excepted_models = args.exceptions.split(' ')
 zombie_models = ['beiliya.vmdl_c', 'aybb.vmdl_c', 'szz.vmdl_c', 'chris_walker.vmdl_c', 'zgjs.vmdl_c',
                  'zombie_xiaoao.vmdl_c', 'zombie_miwu.vmdl_c', 'zombie_frozen.vmdl_c', 'resident_zombie.vmdl_c',
-                 'dyel.vmdl_c', 'lbjur.vmdl_c', '1.vmdl_c', '2.vmdl_c', '3.vmdl_c', '4.vmdl_c']
+                 'dyel.vmdl_c', 'lbjur.vmdl_c', '1.vmdl_c', '2.vmdl_c', '3.vmdl_c', '4.vmdl_c',
+                 'tungtungtungsahur.vmdl_c']
 excepted_models = excepted_models + zombie_models
 
 for root, dirs, files in os.walk(path):
